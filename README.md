@@ -1,4 +1,4 @@
-# Level 1 - ROS 2 Navigation Assignment
+# Level 1 - ROS 2 Navigation Assignment - [Sameer Patwardhan-(sam-airobotics)]
 
 This repository contains the Level 1 navigation solution for the ERIC Robotics
 Testbed...
